@@ -1,0 +1,11 @@
+id: f297a810a5e14995abf113c61cbdd4cc
+annotation_type: index
+revision: '00001'
+annotations:
+  94a74b0b24b74136945529fb12cb6ac4:
+    base: 6F5C.txt
+    Chapters:
+    - title: Kṣudrakavastu
+      span:
+        start: 0
+        end: 2063156
